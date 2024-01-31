@@ -4,10 +4,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import '@popperjs/core/dist/umd/popper.min.js';
 import { useState } from 'react';
-
 import Card from './Card';
-import Header from './components/Header';
-import Footer from './components/Footer';
+import Header from './Components/Header';
+import Footer from './Components/Footer';
 
 function App() {
   
